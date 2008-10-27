@@ -1,0 +1,16 @@
+Source: droid-fonts
+Section: gui
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+Homepage: http://android.git.kernel.org/?p=platform/frameworks/base.git;a=tree;f=data/fonts;hb=HEAD
+Standards-Version: 3.7.3
+Build-Depends: debhelper (>= 5)
+XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.22)
+XS-Vcs-Git: http://git.openinkpot.org/droid-fonts.git
+XS-Vcs-Browser: http://git.openinkpot.org/droid-fonts.git
+
+Package: droid-fonts
+Architecture: all
+Description: Droid fonts family
+ Droid fonts family from Android project.
+
