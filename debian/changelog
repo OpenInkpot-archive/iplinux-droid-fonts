@@ -1,3 +1,11 @@
+droid-fonts (1.0.2-2) asimov; urgency=low
+
+  * Workaround: move fallback font to the separate directory, to allow
+    pre-generating font cache for the fonts seprately.
+  * Clean up packaging.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 29 Aug 2009 17:26:06 +0700
+
 droid-fonts (1.0.2-1) asimov; urgency=low
 
   * New upstream snapshot 20070727.
