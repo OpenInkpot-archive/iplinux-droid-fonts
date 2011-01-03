@@ -20,3 +20,8 @@ Description: Droid fonts family - fallback font
  Droid Freetype fonts family from Android project.
  .
  This package contains huge "fallback" font.
+
+Package: motoya-fonts
+Architecture: all
+Description: MOTOYA fonts family
+ MOTOYA fonts family from Android project.
